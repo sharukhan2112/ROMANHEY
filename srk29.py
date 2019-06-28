@@ -1,4 +1,4 @@
-a2=int(input())
-a3=a2//60
-a4=a2-(a2*60)
-print(a3,a4)
+num1=int(input())
+hr=num1//60
+min=num1-(hr*60)
+print(hr,min)
