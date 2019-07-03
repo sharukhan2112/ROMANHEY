@@ -1,2 +1,4 @@
-a11=input()
-print(sum(len(b11) for b11 in a11.split()))
+ba=str(input())
+ji=len(ba)
+c= ji-(ba.count(' '))
+print(c)
