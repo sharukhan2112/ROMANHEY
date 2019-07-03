@@ -1,4 +1,2 @@
-ba1=str(input())
-ji=len(ba1)
-c= ji-(ba1.count(' '))
-print(c)
+b1=input()
+print(len(b1.split()))
